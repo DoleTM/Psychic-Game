@@ -1,3 +1,33 @@
 h1 {
     font-style: bold;
 }
+
+body {
+    background-image: url(../images/zoltar-speaks.png);
+    
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+#wins-text {
+    color: green;
+}
+
+#losses-text {
+    color: red;
+}
+
+#guesses-remaining {
+    color: gold;
+}
+
+#letters-guessed-text {
+    color: blue;
+}
+
+.list-group {
+    background-color: black;
+}
